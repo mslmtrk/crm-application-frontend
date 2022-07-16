@@ -23,3 +23,11 @@ Live Crm-App-Rest documentation: https://crm-app-rest.herokuapp.com/swagger-ui.h
 - Thymeleaf
 - Hibernate Validator
 - Bootstrap
+
+## How to Run
+1. Install MySQL
+2. Configure datasource credentials in crm-app-backend/src/main/resources/application.properties
+3. Open two console in the path of backend and frontend app
+4. Run mvn install
+5. Run mvn spring-boot:run
+6. The frontend app running on localhost/8081 and the backend app running on localhost/8080
