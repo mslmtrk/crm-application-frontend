@@ -3,7 +3,7 @@ Frontend side of Crm App, uses crm-app-backend for data transactions. Built with
 
 Live App: https://crm-app-frontend.herokuapp.com/
 
-Crm-App-Backend documentation: https://crm-app-rest.herokuapp.com/swagger-ui.html
+Live Crm-App-Backend documentation: https://crm-app-rest.herokuapp.com/swagger-ui.html
 
 Crm-App-Backend: https://github.com/mslmtrk/Crm-Application-Backend 
 
