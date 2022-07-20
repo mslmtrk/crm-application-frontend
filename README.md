@@ -1,5 +1,6 @@
 # Crm-Application-Frontend
-Frontend side of the Crm App, uses [crm-app-backend](https://github.com/mslmtrk/Crm-Application-Backend) for data transactions. You will need to signup and login to make crud operation on customers. It may take a few seconds to startup the application.
+Frontend side of the Crm App, uses [crm-app-backend](https://github.com/mslmtrk/Crm-Application-Backend) for data transactions. 
+You will need to signup and login to make crud operation on customers. It may take a few seconds to startup the application.
 
 Live App: https://crm-app-frontend.herokuapp.com/
 
