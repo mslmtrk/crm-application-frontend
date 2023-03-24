@@ -37,13 +37,13 @@ public class EntityServiceImpl implements EntityService {
 	@Autowired
 	private HttpSession session;
 
-	@Value("${rest.customers.url}")
+	@Value("${rest.api.context-path}" + "/v1/customers")
 	private String restCustomerUrl;
 	
-	@Value("${rest.singin.url}")
+	@Value("${rest.api.context-path}" + "/v1/auth/signin")
 	private String restSigninUrl;
 	
-	@Value("${rest.signup.url}")
+	@Value("${rest.api.context-path}" + "/v1/auth/signup")
 	private String restSignupUrl;
 
 	private HttpHeaders getHeaders() {
