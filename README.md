@@ -1,7 +1,7 @@
 # CRM Application Frontend
 #### This is the frontend side of the CRM Application, which consumes [the backend side](https://github.com/mslmtrk/Crm-Application-Backend) of the application. It has been deployed to AWS.
 
-#### Live App: http://crm-frontend.eu-central-1.elasticbeanstalk.com/ 
+#### Live Application: http://crm-frontend.eu-central-1.elasticbeanstalk.com/ 
 
 #### Live Api Documentation: http://crm-backend.eu-central-1.elasticbeanstalk.com/api/swagger-ui/index.html
 
